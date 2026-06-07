@@ -1,4 +1,4 @@
-# WhatsApp Bulk Chat Opener
+# Script de enviar mensagens no WhatsApp 
 
 Script para abrir múltiplos chats do WhatsApp Web com mensagem pré-preenchida.
 
